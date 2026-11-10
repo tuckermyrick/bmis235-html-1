@@ -1,7 +1,7 @@
 # BMIS 235 · HTML-1 · Styling: Hello World
 
-**Name:** YOUR NAME
-**GU username:** YOUR-GU-USERNAME
+**Name:** TUCKER MYRICK
+**GU username:** GMYRICK
 
 My live page: https://YOUR-GITHUB-USERNAME.github.io/bmis235-html-1/
 
